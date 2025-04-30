@@ -1,4 +1,5 @@
-## Olá, Sou Arthur Santiago!
+#👋 Olá!
+## Meu nome é Arthur Santiago!
 ⚡
 
 - 🌱 Estou atualmente estudando JavaScript
